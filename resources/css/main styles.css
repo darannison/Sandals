@@ -1,0 +1,18 @@
+p {
+  color: black;
+}
+
+.nav-bar {
+  height: 50px;
+  align-items: center;
+  font-size: 20px;
+  background-color: blue;
+}
+
+body {
+  background-color: #d1e9ff;
+}
+
+.nav-items {
+  align-items: center;
+}
